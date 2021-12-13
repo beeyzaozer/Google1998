@@ -1,0 +1,41 @@
+.home{
+    margin: 0 5%;
+    text-align: center;
+}
+.menu{
+    background-color: rgb(240, 238, 238);
+    
+}
+.sub-menu{
+    display: flex;
+    margin-top: 4px;
+}
+.searches{
+    background-color: rgb(126, 229, 218);
+    margin-right: 4px;
+}
+.info{
+    margin-right: 4px;
+    background-color: rgb(112, 204, 194);
+    width:21.2%
+    
+}
+.sub-searches{
+    padding-top: 12px;
+}
+.sub-info{
+    padding-top: 4px;
+}
+.getGoogle{
+    background-color:rgb(103, 179, 170); ;
+}
+.searches, .getGoogle{
+    width: 39%;
+}
+.info, .searches, .getGoogle{
+    height: 80px;
+}
+.footer{
+    margin: 25px;
+    font-size: 14px;
+}
